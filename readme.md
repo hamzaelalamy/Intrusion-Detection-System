@@ -1,6 +1,6 @@
-**Intrusion Detection System using Machine Learning and Neural Networks**
+**Intrusion Detection System using Machine Learning and Neural Networks** <br>
 
-**Overview**
+**Overview**<br>
 This project is an Intrusion Detection System (IDS) developed as an end-of-studies project. The IDS utilizes machine learning techniques, including Decision Trees, Random Forests, Support Vector Machines (SVM), Logistic Regression, Gaussian Naive Bayes, and Gradient Boosting Classifier. Additionally, a neural network model has been implemented for intrusion detection.
 
 The project is implemented in Python using Jupyter Notebook, providing an interactive environment for data analysis, model development, and evaluation.
